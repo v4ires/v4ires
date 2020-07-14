@@ -8,14 +8,12 @@
 
 ### Hi there! 👋
 
-- **Cloud Engineer** back-end and front-end developer.
+- **Cloud Engineer** back-end and front-end developer @ [Instituto de Pesquisas Eldorado](https://www.eldorado.org.br/).
 - 💻 Java, Python, Javascript, TypeScript and **more**.
-- :books: Graduated by **Federal University of Tocantins** and **University of São Paulo** :blue_heart: and currently studying at **Unicamp** :purple_heart: 
+- :books: Undergraduated in CS at **Federal University of Tocantins**, MS at **University of São Paulo** :blue_heart: and currently Phd. candidate at **Unicamp** :purple_heart:
 
-- ⚡ Facts:
-  - Researcher :paperclip:
-  - IoT pasionate :heart_eyes:
-  - Writter :books:
-  - Speaker :bust_in_silhouette:
-
+- Summary :rocket::
+  - Distrubeted Systems Researcher :paperclip:
+  - Science Lover :heart:
+  - Writer :books: Speaker :bust_in_silhouette:
 ---
