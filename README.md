@@ -11,7 +11,7 @@
 - **Cloud Engineer** back-end and front-end developer @ [Instituto de Pesquisas Eldorado](https://www.eldorado.org.br/).
 - 💻 Java, Python, Javascript, TypeScript and **more**.
 - :hourglass: Phd. candidate at **Unicamp**
-- :books: Undergraduated in CS at **Federal University of Tocantins** and MS at **University of São Paulo**
+- :books: CS undergraduated at **Federal University of Tocantins** and MS at **University of São Paulo**
 
 - Summary :rocket::
   - Distrubeted Systems Researcher :paperclip:
