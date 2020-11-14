@@ -10,10 +10,11 @@
 
 - **Cloud Engineer** back-end and front-end developer @ [Instituto de Pesquisas Eldorado](https://www.eldorado.org.br/).
 - 💻 Java, Python, Javascript, TypeScript and **more**.
-- :books: Computer Science undergraduate at **Federal University of Tocantins** and MS at **University of São Paulo**
+- :books: Bachelor Degree in Computer Science at **Federal University of Tocantins**
+- :books: Masters of Science in Computer Science at **University of São Paulo**
 
 - Summary :rocket::
-  - Distributed Systems Researcher :paperclip:
+  - Distributed Systems Researcher 💻
   - Science Lover :heart:
   - Writer :books: Speaker :bust_in_silhouette:
 ---
