@@ -8,10 +8,10 @@
 
 ### Hi there! 👋
 
-- **Cloud Engineer** back-end and front-end developer @ [Instituto de Pesquisas Eldorado](https://www.eldorado.org.br/).
-- 💻 Java, Python, Javascript, TypeScript and **more**.
-- :books: Bachelor Degree in Computer Science at **Federal University of Tocantins**
+- **Cloud Engineer** @ [Instituto de Pesquisas Eldorado](https://www.eldorado.org.br/).
+- 💻 Java, Python, Javascript, TypeScript and **more**
 - :books: Masters of Science in Computer Science at **University of São Paulo**
+- :books: Bachelor Degree in Computer Science at **Federal University of Tocantins**
 
 - Summary :rocket::
   - Distributed Systems Researcher 💻
