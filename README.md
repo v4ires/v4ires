@@ -8,7 +8,7 @@
 
 ### Hi there! 👋
 
-- :technologist: Cloud Engineer
+- :technologist: Data Scientist
 - 💻 Java, Python, Javascript, TypeScript and **more**
 - :books: Masters of Science in Computer Science at **University of São Paulo**
 - :books: Bachelor Degree in Computer Science at **Federal University of Tocantins**
