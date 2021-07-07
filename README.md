@@ -8,10 +8,10 @@
 
 ### Hi there! 👋
 
-- 🎲 Data Scientist @ IBM
-- 💻 Python, Java/Kotlin, Javascript, TypeScript and **more**
-- 👨‍🎓 Masters of Science in Computer Science at **University of São Paulo**
-- 👨‍🎓 Bachelor Degree in Computer Science at **Federal University of Tocantins**
+- 🎲  Data Scientist @ IBM
+- 💻  Python, Java/Kotlin, Javascript, TypeScript and **more**
+- 👨‍🎓  Masters of Science in Computer Science at **University of São Paulo**
+- 👨‍🎓  Bachelor Degree in Computer Science at **Federal University of Tocantins**
 
 - Summary :rocket::
   - Distributed Systems Researcher :book:
