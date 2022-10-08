@@ -8,13 +8,13 @@
 
 ### Hi there! 👋
 
-- 🎲  Data Scientist @ IBM
+- 🎲  Data Scientist
 - 💻  Python, Java/Kotlin, Javascript, TypeScript and **more**
 - 👨‍🎓  Masters of Science in Computer Science at **University of São Paulo**
 - 👨‍🎓  Bachelor Degree in Computer Science at **Federal University of Tocantins**
 
 - Summary :rocket::
-  - Distributed Systems Researcher :book:
+  - Data Science, Machine Learning and Natural Language Processing :book:
   - Science Lover :heart:
   - Writer :books: Speaker :bust_in_silhouette:
 ---
