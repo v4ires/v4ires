@@ -8,13 +8,27 @@
 
 ### Hi there! 👋
 
-- 🎲  Data Scientist
+I am Data Scientist & Software Engineer with background in Distributed Systems. I have experience in different fields in Computer Science, e.g., Machine Learning, Natural Language Processing and Back-end Development (Cloud Engineer). Undergraduate in Computer Science at Federal University of Tocantins (UFT) and master's on Compute Science at University of São Paulo (USP). I am certified in Google Cloud Platform and experienced with AWS, IBM Cloud and On-premises server administration. Among my achievements, in 2015 I had a team selected in the 20th ICPC Programming Marathon and was awarded as the best team in the north of Brazil. Finally, in 2021 I had a team that won in 3rd place the IBM AI Hackathon 2021.
+
+#### Summary :rocket:
+
+- 🎲  Data Scientist @ IBM
 - 💻  Python, Java/Kotlin, Javascript, TypeScript and **more**
+- :book: Data Science, Machine Learning and Natural Language Processing (NLP)
 - 👨‍🎓  Masters of Science in Computer Science at **University of São Paulo**
 - 👨‍🎓  Bachelor Degree in Computer Science at **Federal University of Tocantins**
 
-- Summary :rocket::
-  - Data Science, Machine Learning and Natural Language Processing :book:
-  - Science Lover :heart:
-  - Writer :books: Speaker :bust_in_silhouette:
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="50" height="50"/>
+
+### Portfolio
+
+[Here](https://github.com/v4ires/portfolio) you can found my current porfolio.
+
 ---
+
+<div>
+<a href="https://github.com/v4ires">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=v4ires&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=v4ires&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
