@@ -8,7 +8,7 @@
 
 ### Hi there! 👋
 
-I am Data Scientist & Software Engineer with background in Distributed Systems. I have experience in different fields in Computer Science, e.g., Machine Learning, Natural Language Processing and Back-end Development (Cloud Engineer). Undergraduate in Computer Science at Federal University of Tocantins (UFT) and master's on Compute Science at University of São Paulo (USP). I am certified in Google Cloud Platform and experienced with AWS, IBM Cloud and On-premises server administration. Among my achievements, in 2015 I had a team selected in the 20th ICPC Programming Marathon and was awarded as the best team in the north of Brazil. Finally, in 2021 I had a team that won in 3rd place the IBM AI Hackathon 2021.
+I am Data Scientist & Software Engineer with background in Distributed Systems. I have experience in different fields in Computer Science, e.g., Machine Learning, Natural Language Processing and Back-end Development (Cloud Engineer). Undergraduate in Computer Science at Federal University of Tocantins (UFT) and master's on Compute Science at University of São Paulo (USP). I am certified in Google Cloud Platform and experienced with AWS, IBM Cloud and On-premises server administration.
 
 #### Summary :rocket:
 
