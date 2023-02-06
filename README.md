@@ -10,7 +10,9 @@
 
 I am Data Scientist & Software Engineer with background in Distributed Systems. I have experience in different fields in Computer Science, e.g., Machine Learning, Natural Language Processing and Back-end Development (Cloud Engineer). Undergraduate in Computer Science at Federal University of Tocantins (UFT) and master's on Compute Science at University of São Paulo (USP). I am certified in Google Cloud Platform and experienced with AWS, IBM Cloud and On-premises server administration.
 
-#### Summary :rocket:
+**Keywords**: Data Scientist, Software Engineer, Machine Learning, Natural Language Processing, Cloud Engineer.
+
+#### Experiences :rocket:
 
 - 🎲  Data Scientist @ IBM
 - 💻  Python, Java/Kotlin, Javascript, TypeScript and **more**
@@ -23,7 +25,7 @@ I am Data Scientist & Software Engineer with background in Distributed Systems. 
 
 ### Portfolio
 
-[Here](https://github.com/v4ires/portfolio) you can found my current porfolio.
+[Here](https://github.com/v4ires/portfolio) you can found my current porfolio with my open-source projects.
 
 ---
 
