@@ -8,17 +8,17 @@
 
 ### Hi there! 👋
 
-I am Data Scientist & Software Engineer with background in Distributed Systems. I have experience in different fields in Computer Science, e.g., Machine Learning, Natural Language Processing and Back-end Development (Cloud Engineer). Undergraduate in Computer Science at Federal University of Tocantins (UFT) and master's on Compute Science at University of São Paulo (USP). I am certified in Google Cloud Platform and experienced with AWS, IBM Cloud and On-premises server administration.
+I'm a Data Scientist & Software Engineer focused on Distributed Systems. My expertise spans various Computer Science areas, such as Machine Learning, Natural Language Processing, and Back-end Development (Cloud Engineer). I earned my bachelor's degree in Computer Science at Federal University of Tocantins (UFT) and a master's in Compute Science at University of São Paulo (USP). Google Cloud Platform certified and skilled in AWS, IBM Cloud, and On-premises server management.
 
 **Keywords**: Data Scientist, Software Engineer, Machine Learning, Natural Language Processing, Cloud Engineer.
 
-#### Experiences :rocket:
+Experience 🚀
 
-- 🎲  Data Scientist @ IBM
-- 💻  Python, Java/Kotlin, Javascript, TypeScript and **more**
-- :book: Data Science, Machine Learning and Natural Language Processing (NLP)
-- 👨‍🎓  Masters of Science in Computer Science @ **University of São Paulo** (UFT)
-- 👨‍🎓  Bachelor Degree in Computer Science @ **Federal University of Tocantins** (USP)
+🎲 Data Scientist @ IBM
+💻 Python, Java/Kotlin, Javascript, TypeScript, etc.
+📖 Data Science, Machine Learning, and Natural Language Processing (NLP)
+👨‍🎓 MSc in Computer Science @ University of São Paulo (USP)
+👨‍🎓 BSc in Computer Science @ Federal University of Tocantins (UFT)
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="50" height="50"/>
