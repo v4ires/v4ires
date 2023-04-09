@@ -14,11 +14,11 @@ I'm a Data Scientist & Software Engineer focused on Distributed Systems. My expe
 
 Experience 🚀
 
-🎲 Data Scientist @ IBM
-💻 Python, Java/Kotlin, Javascript, TypeScript, etc.
-📖 Data Science, Machine Learning, and Natural Language Processing (NLP)
-👨‍🎓 MSc in Computer Science @ University of São Paulo (USP)
-👨‍🎓 BSc in Computer Science @ Federal University of Tocantins (UFT)
+🎲 Data Scientist @ IBM <br/>
+💻 Python, Java/Kotlin, Javascript, TypeScript, etc. <br/>
+📖 Data Science, Machine Learning, and Natural Language Processing (NLP) <br/>
+👨‍🎓 MSc in Computer Science @ University of São Paulo (USP) <br/>
+👨‍🎓 BSc in Computer Science @ Federal University of Tocantins (UFT) <br/>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="50" height="50"/>
