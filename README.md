@@ -8,7 +8,7 @@
 
 ### Hi there! 👋
 
-I'm a Data Scientist & Software Engineer focused on Distributed Systems. My expertise spans various Computer Science areas, such as Machine Learning, Natural Language Processing, and Back-end Development (Cloud Engineer). I earned my bachelor's degree in Computer Science at Federal University of Tocantins (UFT) and a master's in Compute Science at University of São Paulo (USP). Google Cloud Platform certified and skilled in AWS, IBM Cloud, and On-premises server management.
+I'm a Data Scientist & Software Engineer. My expertise spans various Computer Science areas, such as Machine Learning, Natural Language Processing, and Back-end Development (Cloud Engineer). I earned my bachelor's degree in Computer Science at Federal University of Tocantins (UFT) and a master's in Compute Science at University of São Paulo (USP). Google Cloud Platform certified and skilled in AWS, IBM Cloud, and On-premises server management.
 
 **Keywords**: Data Scientist, Software Engineer, Machine Learning, Natural Language Processing, Cloud Engineer.
 
