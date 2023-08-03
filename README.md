@@ -1,5 +1,5 @@
 
-## :computer: Vinícius Aires Barros
+## :computer: Vinícius Barros
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/v4ires)](https://github.com/v4ires)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/v4ires)](https://twitter.com/v4ires) 
