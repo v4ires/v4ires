@@ -14,8 +14,8 @@ I'm a Data Scientist & Software Engineer. My expertise spans various Computer Sc
 
 Experience 🚀
 
-🎲 Data Scientist @ AIC <br/>
-💻 Python, Java/Kotlin, Javascript, TypeScript, etc. <br/>
+🎲 Data Scientist <br/>
+💻 Python, Javascript, TypeScript, etc. <br/>
 📖 Data Science, Machine Learning, and Natural Language Processing (NLP) <br/>
 👨‍🎓 MSc in Computer Science @ University of São Paulo (USP) <br/>
 👨‍🎓 BSc in Computer Science @ Federal University of Tocantins (UFT) <br/>
